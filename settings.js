@@ -16,15 +16,15 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.alivepic = `https://i.ibb.co/K0RtK0Z/IMG-20221021-WA0089.jpg `
-global.owner = ['97691538545] //ur owner number
-global.ownername = "Aalan🇲🇳" //ur owner name
+global.owner = ['97690054626' '97691538545'] //ur owner number
+global.ownername = "Aalan🇲🇳" "Aalan2🇲🇳" //ur owner name
 global.ytname = "YT: Alaan" //ur yt chanel name
 global.socialm = "Aalan" //ur github or insta name
 global.location = "Mongolia, Ulaanbaatar, Asia" //ur location
 
 //bot bomdy 
-global.ownernomer = "97691538545" //ur number
-global.premium = ['97691538545] //ur premium number
+global.ownernomer = "97691538545" "97690054626" //ur number
+global.premium = ['97691538545' '97690054626'] //ur premium number
 global.botname = 'DarkNero Bot MD V7' //ur bot name
 global.linkz = "https://chat.whatsapp.com/FFQcmqlZWp2IJ8tCWhYvjl" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.youtube.com/@aalan5303" //ur website to be displayed
